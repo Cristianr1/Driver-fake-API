@@ -1,16 +1,58 @@
 {
-  "posts":[
+  "services": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "userUid": "U7YRIFJ1",
+      "userName": "Richard Feynman",
+      "type": "R",
+      "observations": "Lorem ipsum",
+      "address": "Carrera 1",
+      "finished": false
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "userUid": "U7YRIFJ2",
+      "userName": "Dante",
+      "type": "R",
+      "observations": "Lorem ipsum",
+      "address": "Carrera 2",
+      "finished": false
+    },
+    {
+      "id": 3,
+      "userUid": "U7YRIFJ3",
+      "userName": "Emmanuel Goldstein",
+      "type": "E",
+      "observations": "Lorem ipsum",
+      "address": "Carrera 3",
+      "finished": false
+    },
+    {
+      "id": 4,
+      "userUid": "U7YRIFJ4",
+      "userName": "Rocky Balboa",
+      "type": "E",
+      "observations": "Lorem ipsum",
+      "address": "Carrera 4",
+      "finished": false
+    },
+    {
+      "id": 5,
+      "userUid": "U7YRIFJ5",
+      "userName": "Rambo",
+      "type": "R",
+      "observations": "Lorem ipsum",
+      "address": "Carrera 5",
+      "finished": false
+    },
+    {
+      "id": 6,
+      "userUid": "U7YRIFJ6",
+      "userName": "John Wick",
+      "type": "E",
+      "observations": "Lorem ipsum",
+      "address": "Carrera 1",
+      "finished": false
     }
   ]
 }
